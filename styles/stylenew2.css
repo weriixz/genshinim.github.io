@@ -1,0 +1,264 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;800&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+}
+
+a {
+    text-decoration: none;
+}
+
+body {
+    background-image: url('#');
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+img {
+    max-width: 100%;
+}
+
+
+
+  .conteiner {
+    width: 1400px;
+    margin: 0 auto;
+  }
+
+  header {
+    padding: 10px 0;
+  }
+
+  .HOYOVERSE {
+    width: 230px;
+    margin-top: 0;
+    margin-bottom: 0;
+  }
+
+  a:hover {
+  color: rgb(79, 120, 255);
+}
+
+a.active {
+    color: rgb(79, 120, 255); 
+  font-weight: bold; 
+  text-decoration: underline;
+    border-bottom-width: 2px;
+}
+
+  header nav {
+    float: right;
+    width: 40%;
+  }
+
+  header nav ul {
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+  }
+
+header nav ul li {
+    display: inline-block;
+}
+
+.navbar {
+    position: fixed;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.7);
+    top: 0;
+    backdrop-filter: blur(10px);
+    z-index: 1000;
+    height: 50px
+}
+
+header nav ul li a {color: white
+    ;}
+
+   h1 {
+    
+    text-align: center;
+    padding-left: 23%;
+    padding-right: 23%;
+    margin-top: 8%;
+   }
+
+   
+
+    .new {
+    width: 775px;
+    height: 400px;
+    padding-left: 25%;
+    padding-top: 10px;
+   }
+
+   .trw {
+    padding-top: 65px;
+    padding-left: 25%;;
+    padding-right: 24%;
+    text-align: justify;
+   }
+
+   .ooo {
+    padding-top: 65px;
+    padding-left: 25%;;
+    padding-right: 24%;
+    text-align: justify;
+   }
+
+   .yyy {
+    padding-top: 65px;
+    padding-left: 25%;;
+    padding-right: 24%;
+    text-align: justify;
+   }
+
+   .fff {
+    padding-top: 65px;
+    padding-left: 25%;;
+    padding-right: 24%;
+    text-align: justify;
+   }
+
+   .ccc {
+    padding-top: 65px;
+    padding-left: 25%;;
+    padding-right: 24%;
+    text-align: justify;
+   }
+
+   .hhh {
+    padding-top: 65px;
+    padding-left: 25%;;
+    padding-right: 24%;
+    text-align: justify;
+   }
+
+   .aaa {
+    padding-top: 65px;
+    padding-left: 25%;;
+    padding-right: 24%;
+    text-align: justify;
+   }
+
+   .ppp {
+    padding-top: 65px;
+    padding-left: 25%;;
+    padding-right: 24%;
+    text-align: justify;
+   }
+
+   .ryy {
+    background: linear-gradient(70deg, rgb(0, 0, 0), rgb(53, 53, 53));
+    margin-top: 7cap;
+    padding-bottom: 2cap;
+}
+
+.pqq {
+    margin-left: 30cap;
+    margin-top: 5cap;
+    color: white;
+    text-align: center;
+    list-style: none;
+    display: flex;
+    margin-right: 3cap;
+    margin-bottom: 3cap;
+}
+
+.lof {
+    margin-left: 51cap;
+    width: 40cap;
+    height: 5cap;
+    margin-bottom: 0,5cap;
+}
+
+.ws {
+    color: rgb(199, 199, 199);
+    padding: 6px;
+    width: 50px;
+    height: 10px;
+    font-size: 18px;
+    margin-left: 1cap;
+}
+
+.wss {
+    color: rgb(199, 199, 199);
+    padding: 6px;
+    width: 50px;
+    height: 10px;
+    font-size: 18px;
+    margin-left: 1cap;
+}
+
+.wsd {
+    color: rgb(199, 199, 199);
+    padding: 6px;
+    width: 50px;
+    height: 10px;
+    font-size: 18px;
+    margin-left: 1cap;
+}
+
+.wsf {
+    color: rgb(199, 199, 199);
+    padding: 6px;
+    width: 50px;
+    height: 10px;
+    font-size: 18px;
+    margin-left: 1cap;
+}
+
+.wsc {
+    color: rgb(199, 199, 199);
+    padding: 6px;
+    width: 50px;
+    height: 10px;
+    font-size: 18px;
+    margin-left: 1cap;
+}
+
+.wsz {
+    color: rgb(199, 199, 199);
+    padding: 6px;
+    width: 50px;
+    height: 10px;
+    font-size: 18px;
+    margin-left: 1cap;
+}
+
+.poz {
+text-align: center;
+color: gray;
+font-size: 13px;
+margin-bottom: 5cap;
+margin-top: 10px;
+margin-left: 10cap;
+}
+
+.tee {
+    cursor: pointer;
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    font-weight: bold;
+}
+
+hr {
+  border: none; 
+  height: 4px; 
+  background-color: #333; 
+  margin: 100px 230px; 
+  background: linear-gradient(to right, rgb(255, 255, 255), rgb(203, 192, 255));
+}
+
+.bbb {
+    padding-top: 65px;
+    padding-left: 25%;;
+    padding-right: 24%;
+    text-align: justify;
+   }
